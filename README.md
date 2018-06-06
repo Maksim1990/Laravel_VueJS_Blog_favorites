@@ -83,8 +83,8 @@ Laravel+VueJS blog application with ability to favorite posts and see all favori
  
  ###### Example home posts page with ability favorite specific post 
 
-![Mockup for feature A](https://raw.githubusercontent.com/Maksim1990/PHP_Twillio_SMS_app/master/storage/git/fav01.png)
+![Mockup for feature A](https://raw.githubusercontent.com/Maksim1990/Laravel_VueJS_Blog_favorites/master/storage/git/fav01.png)
 
 ###### Example page with all favorites posts
 
-![Mockup for feature A](https://raw.githubusercontent.com/Maksim1990/PHP_Twillio_SMS_app/master/storage/git/fav1.png)
+![Mockup for feature A](https://raw.githubusercontent.com/Maksim1990/Laravel_VueJS_Blog_favorites/master/storage/git/fav1.png)
