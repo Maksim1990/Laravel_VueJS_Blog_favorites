@@ -77,7 +77,7 @@ Laravel+VueJS blog application with ability to favorite posts and see all favori
    
    10. Login with credentials of registered user
    
-   ### 11. Enjoy withapplication!
+   ### 11. Enjoy with this application!
     
       
  
